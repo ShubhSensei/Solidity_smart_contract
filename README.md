@@ -1,4 +1,4 @@
-# The soul purpose of this Repo is to share some knowledge of what I learned. 
+# The sole purpose of this Repo is to share some knowledge of what I learned. 
 #   		You got it, Learning in Public
 
 * This Repo contain the `concepts & learnings` of my own journey when I'm learning solidity       (^_^)
